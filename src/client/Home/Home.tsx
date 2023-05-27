@@ -15,8 +15,8 @@ const Home = () => {
 
     return (
         <div className="home">
-            <div className="header">Hola Clase!!"</div>
-            <div className="body">Vamos Empezando!</div>
+            <div className="header">__________*...✨Wiii... Termine✨...*__________Ya saque 100 😅🙈? Espero  que si 🐰 </div>
+            <div className="body">✨🖤 Last Part ...READY...Let's Go!🖤✨</div>
 
             <button 
                 onClick={getMessage}
